@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: The Tanglements
+description: The official website for the Tanglements project.
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+color_scheme: dark
+
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Read The Tanglements: https://github.com/just-the-docs/just-the-docs-template
